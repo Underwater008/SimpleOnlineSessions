@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AE7F78B1-45ED-EFFD-F3FA-FCAE855E4F75}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SimpleOnlineSessions",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
