@@ -2,7 +2,7 @@
  A Unreal Engine 5 plugin handling Online multiplayer sessions.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Underwater008/SimpleOnlineSessions/blob/main/MLogo.png">
+  <img width="670" height="615" src="https://github.com/Underwater008/SimpleOnlineSessions/blob/main/MLogo.png">
 </p>
 
 
