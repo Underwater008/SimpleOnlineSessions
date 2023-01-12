@@ -2,7 +2,7 @@
  A Unreal Engine 5 plugin handling Online multiplayer sessions.
 
 <p align="center">
-![Stencils Banner](MLogo.png)
+  <img width="460" height="300" src="![Stencils Banner](MLogo.png)">
 </p>
 
 
