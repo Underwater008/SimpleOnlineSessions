@@ -1,7 +1,7 @@
 # SimpleOnlineSessions
  A Unreal Engine 5 plugin handling Online multiplayer sessions.
 
-![Stencils Banner](banner.jpg)
+![Stencils Banner](MLogo.png)
 
 ## Abstract
 
