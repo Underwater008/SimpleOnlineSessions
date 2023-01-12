@@ -13,9 +13,14 @@ This repository features a Unreal engine 5 plugin I created from scrath. It is b
 ## Requirements & prerequisites
 
 This project was created using C++ and Unreal Engine 5.1 built from [source]([url](https://github.com/EpicGames/UnrealEngine/tree/release)).
+
 Free AWS [m6g.large EC2 instance running Amazon Linux 2]([url](https://aws.amazon.com/ec2/graviton/)).
+
+
 Steam account registered on [Steamworks]([url](https://partner.steamgames.com/)).
+
 C++ basic knowledge (variables, functions, pointers, classes).
+
 Basic Unreal Engine knowledge - creation of components, functions, and Blueprints.
 
 ## Tutorials
